@@ -56,9 +56,9 @@ The individual data frams for each city were then combined into a single data fr
 
 *Figure 9. Python code to concatenate individual city data frames and plot cities on a map with markers*
 
-![Fig 8](./Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![Fig 10](./Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
-*Figure 8. Google map for hotels in four selected cities in the Philippines with markers*
+*Figure 10. Google map for hotels in four selected cities in the Philippines with markers*
 
 ## World Weather Analysis Summary
 
